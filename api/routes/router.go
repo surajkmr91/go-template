@@ -4,9 +4,9 @@ import (
 	"context"
 	"net/http"
 
-	"trendtracker/commons/middleware"
+	"github.com/surajkmr91/go-template/commons/middleware"
 
-	"trendtracker/commons/log"
+	"github.com/surajkmr91/go-template/commons/log"
 
 	"github.com/gin-gonic/gin"
 )

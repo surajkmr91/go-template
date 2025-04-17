@@ -3,10 +3,11 @@ package main
 import (
 	"context"
 	"fmt"
-	"trendtracker/api/routes"
-	"trendtracker/commons/config"
-	"trendtracker/commons/flags"
-	"trendtracker/commons/log"
+
+	"github.com/surajkmr91/go-template/api/routes"
+	"github.com/surajkmr91/go-template/commons/config"
+	"github.com/surajkmr91/go-template/commons/flags"
+	"github.com/surajkmr91/go-template/commons/log"
 )
 
 var ctx = context.Background()

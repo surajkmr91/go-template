@@ -3,7 +3,8 @@ package config
 import (
 	"fmt"
 	"os"
-	"trendtracker/commons/flags"
+
+	"github.com/surajkmr91/go-template/commons/flags"
 
 	"gopkg.in/yaml.v3"
 )

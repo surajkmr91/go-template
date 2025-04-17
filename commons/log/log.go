@@ -5,7 +5,7 @@ import (
 	"os"
 	"runtime/debug"
 
-	"trendtracker/constants"
+	"github.com/surajkmr91/go-template/constants"
 
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
