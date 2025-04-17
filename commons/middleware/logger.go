@@ -2,7 +2,8 @@ package middleware
 
 import (
 	"strings"
-	"trendtracker/constants"
+
+	"github.com/surajkmr91/go-template/constants"
 
 	"github.com/gin-gonic/gin"
 	"github.com/google/uuid"

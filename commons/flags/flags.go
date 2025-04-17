@@ -3,7 +3,7 @@ package flags
 import (
 	"os"
 
-	"trendtracker/constants"
+	"github.com/surajkmr91/go-template/constants"
 
 	flag "github.com/spf13/pflag"
 )

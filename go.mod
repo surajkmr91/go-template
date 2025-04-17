@@ -1,4 +1,4 @@
-module trendtracker
+module github.com/surajkmr91/go-template
 
 go 1.22.2
 
